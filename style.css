@@ -1,0 +1,14 @@
+
+html{
+  scroll-behavior: smooth;
+}
+
+.viewheight{
+    height: 90vh;
+}
+.ap{
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+  }
+  
